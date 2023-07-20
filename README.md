@@ -21,8 +21,3 @@ Connect with me on https://www.linkedin.com/in/khushboo-khanrah
 
 Happy Learning!
 
-Feel free to explore the repository to gain further insights into the code implementation, methodology, and findings.
-
-Connect with me on https://www.linkedin.com/in/khushboo-khanrah
-
-Happy Learning!
